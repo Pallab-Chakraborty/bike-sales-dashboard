@@ -2,7 +2,7 @@
 
 > Interactive customer segmentation dashboard — filter, explore, and uncover what drives bike purchases.
 
-**[🔴 Live Demo →](https://pallab-chakraborty.github.io/bike-sales-dashboard/)**
+**[🔴 Live Demo →](https://pallab-chakraborty.github.io/Bike-salesDashboard-DataAnalytics-/)**
 
 ![Bike Sales Analytics Dashboard Preview](https://pallab-chakraborty.github.io/bike-sales-dashboard/preview.png)
 
